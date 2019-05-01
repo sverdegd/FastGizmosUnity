@@ -1,4 +1,7 @@
 # FastGizmosUnity
+Fast Gizmos is a Unity tool that allows to visualize and cusmtomize gizmos quickly. 
+
+You can use the default unity gizmos plus the following extra gizmos: LineExtended, CubeExtended,  WireCubeExtended and CameraOrthographic.
 ## FastGizmos Example
 ![Example](https://github.com/sverdegd/FastGizmosUnity/blob/master/ReadmeImages/FastGizmosExample.gif)
 ## FastGizmos HandleText Example
